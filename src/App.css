@@ -1,0 +1,11 @@
+body{
+  background-color: #172554;
+}
+.firsthalf{
+display: flex;
+flex: 1;
+}
+.secondhalf{
+display: flex;
+flex: 2;
+}

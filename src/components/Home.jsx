@@ -9,7 +9,7 @@ import { Link } from 'react-router-dom';
 import About from './About';
 const Home = () => {
   return (<>
-    <Navbar />
+  <Navbar />
     <div className=' flex flex-col items-center justify-center text-white h-full w-full font-roboto'>
       <h2 className='font-bold text-4xl'>Hi there!</h2>
       <h5 className='font-bold text-5xl'>I'm Usha Nandhini</h5>

@@ -1,7 +1,9 @@
 import React from 'react'
+import Navbar from './Navbar';
 
 const Projects = () => {
   return (<>
+  <Navbar />
 <div class="text-center p-10">
     <h1 class="font-bold text-white text-4xl mb-4">My Projects</h1>
 </div>

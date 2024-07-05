@@ -75,11 +75,11 @@ const Projects = () => {
         </a>
     </div>
     <div class="w-72 bg-white shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-xl">
-        <a href="https://github.com/ushaganeshdurai/snapgram">
-            <img src="https://www.dotcominfoway.com/wp-content/uploads/2020/01/social-media-app-cost.png"
+        <a href="https://github.com/ushaganeshdurai/appointmentbookingsystem">
+            <img src="https://camo.githubusercontent.com/aa823fe2118937109c8f98d3d9214cf682a5a7a066266107a9fdfb360edb7f28/68747470733a2f2f696b2e696d6167656b69742e696f2f74706b626e6c6870702f53637265656e73686f74253230323032342d30362d31332532303134323430362e706e673f7570646174656441743d31373138323638383830333337"
                     alt="Product" class="h-80 w-72 object-cover rounded-t-xl" />
             <div class="px-4 py-3 w-72">
-                <p class="text-lg font-bold text-black truncate block capitalize">Social Media App</p>
+                <p class="text-lg font-bold text-black truncate block capitalize">Appointment Booking <br /> System</p>
                 <div class="flex items-center">
                     <p class="text-lg font-semibold text-gray-600 cursor-auto my-3">React js</p>
                 </div>

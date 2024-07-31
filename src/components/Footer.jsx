@@ -9,7 +9,7 @@ const Footer = () => {
 {/* <!-- Pin to bottom left corner --> */}
 <div className="relative h-full w-full ...">
   <div className="absolute bottom-0 left-0 h-16 w-16 m-4">
-  <img src={wa} alt="" className='size-8 block' />
+  <a href="https://wa.me/+916380731857"><img src={wa} alt="" className='size-8 block' /></a>
       <a href="https://www.linkedin.com/in/usha-nandhini-7baa57231/"><img src={lin} alt="" className='text-white size-8 block' /></a>
       
       <a href="http://github.com/ushaganeshdurai"><img src={gi} alt="" className='text-white size-8 block' /></a>

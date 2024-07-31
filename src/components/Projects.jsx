@@ -65,6 +65,18 @@ const Projects = () => {
         </a>
     </div>
     <div class="w-72 bg-white shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-xl">
+        <a href="https://zenplas.vercel.app">
+            <img src="https://ik.imagekit.io/tpkbnlhpp/logo-removebg-preview.png?updatedAt=1720878607334?tr=f-webp"
+                    alt="Product" class="h-80 w-72 object-cover rounded-t-xl" />
+            <div class="px-4 py-3 w-72">
+                <p class="text-lg font-bold text-black truncate block capitalize">ZenPlas</p>
+                <div class="flex items-center">
+                    <p class="text-lg font-semibold text-gray-600 cursor-auto my-3">Freelance Project</p>
+                </div>
+            </div>
+        </a>
+    </div>
+    <div class="w-72 bg-white shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-xl">
         <a href="https://github.com/ushaganeshdurai/ecommerce">
             <img src="https://www.zilliondesigns.com/blog/wp-content/uploads/EcommerceLogos.jpg"
                     alt="Product" class="h-80 w-72 object-cover rounded-t-xl" />

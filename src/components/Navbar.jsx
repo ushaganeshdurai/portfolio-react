@@ -76,19 +76,11 @@ function Navbar() {
                         </svg>
                     </button>
                 </div>
-<<<<<<< HEAD
                 <ul className="hidden absolute top-1/2 left-1/2 transform -translate-y-1/2 -translate-x-1/2 lg:flex lg:mx-auto lg:flex lg:items-center lg:w-auto lg:space-x-6">
                     <li><a className="text-xl text-white hover:text-gray-500" href="/">Home</a></li>
                     <li><a className="text-xl text-white hover:text-gray-500" href="/pdf">Resume</a></li>
                     <li><a className="text-xl text-white hover:text-gray-500" > <Link to={"/about"}>About me</Link></a></li>
                     <li><a className="text-xl text-white hover:text-gray-500" > <Link to={"/contact"}>Contact me</Link></a></li>
-=======
-                <ul className="hidden absolute top-1/2 left-1/2 transform -translate-y-1/2 -translate-x-1/2 lg:flex lg:mx-auto lg:items-center lg:w-auto lg:space-x-6">
-                    <li><a className="text-xl text-white hover:text-gray-500" href="#">Home</a></li>
-                    <li><a className="text-xl text-white hover:text-gray-500" href="#">Resume</a></li>
-                    <li><a className="text-xl text-white hover:text-gray-500" href="#">Contact me</a></li>
-                    <li><a className="text-xl text-white hover:text-gray-500" > <Link to={"/about"}>About me</Link>  </a></li>
->>>>>>> origin/main
                 </ul>
             </nav>
             <div className="navbar-menu relative z-50 hidden">

@@ -37,7 +37,7 @@ const Projects = () => {
             <div class="px-4 py-3 w-72">
                 <p class="text-lg font-bold text-black truncate block capitalize">Book store</p>
                 <div class="flex items-center">
-                    <p class="text-lg font-semibold text-gray-600 cursor-auto my-3">React js MongoDB</p>
+                    <p class="text-lg font-semibold text-gray-600 cursor-auto my-3">MERN stack</p>
                     
                 </div>
             </div>
@@ -88,7 +88,7 @@ const Projects = () => {
     </div>
     <div class="w-72 bg-white shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-xl">
         <a href="https://cake-wheel.vercel.app">
-            <img src="https://ik.imagekit.io/tpkbnlhpp/logo-removebg-preview.png?updatedAt=1720878607334?tr=f-webp"
+            <img src="https://images.jdmagicbox.com/v2/comp/chennai/m9/044pxx44.xx44.210916030607.t2m9/catalogue/cake-wheel-k-k-nagar-chennai-cake-shops-ulfptxdza9.jpg"
                     alt="Product" class="h-80 w-72 object-cover rounded-t-xl" />
             <div class="px-4 py-3 w-72">
                 <p class="text-lg font-bold text-black truncate block capitalize">Cakewheel</p>
@@ -112,20 +112,20 @@ const Projects = () => {
     </div>
     <div class="w-72 bg-white shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-xl">
         <a href="https://github.com/ushaganeshdurai/appointmentbookingsystem-frontend.vercel.app">
-            <img src="https://camo.githubusercontent.com/aa823fe2118937109c8f98d3d9214cf682a5a7a066266107a9fdfb360edb7f28/68747470733a2f2f696b2e696d6167656b69742e696f2f74706b626e6c6870702f53637265656e73686f74253230323032342d30362d31332532303134323430362e706e673f7570646174656441743d31373138323638383830333337"
-                    alt="Product" class="h-80 w-72 object-cover rounded-t-xl" />
+            <img src="https://media.licdn.com/dms/image/v2/C5612AQGE9Gqz32GO4Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1547706841226?e=2147483647&v=beta&t=FswdnaK7CEP87by7kJCWz3hDiQIJiAtBS1ss2MJk2Fc"
+                    alt="Appointment Booking System" class="h-80 w-72 object-cover rounded-t-xl" />
             <div class="px-4 py-3 w-72">
                 <p class="text-lg font-bold text-black truncate block capitalize">Appointment Booking <br /> System</p>
                 <div class="flex items-center">
-                    <p class="text-lg font-semibold text-gray-600 cursor-auto my-3">React js</p>
+                    <p class="text-lg font-semibold text-gray-600 cursor-auto my-3">MERN stack</p>
                 </div>
             </div>
         </a>
     </div>
     <div class="w-72 bg-white shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-xl">
         <a href="https://github.com/ushaganeshdurai/appointmentbookingsystem-frontend.vercel.app">
-            <img src="https://camo.githubusercontent.com/aa823fe2118937109c8f98d3d9214cf682a5a7a066266107a9fdfb360edb7f28/68747470733a2f2f696b2e696d6167656b69742e696f2f74706b626e6c6870702f53637265656e73686f74253230323032342d30362d31332532303134323430362e706e673f7570646174656441743d31373138323638383830333337"
-                    alt="Product" class="h-80 w-72 object-cover rounded-t-xl" />
+            <img src="https://media.licdn.com/dms/image/D5612AQGplp7JKG6Iiw/article-cover_image-shrink_720_1280/0/1673950361361?e=2147483647&v=beta&t=NxzErCoXqQ-xwkHJZZkKGKYNA21hJh3oNMUJzNKQr9M"
+                    alt="Personal Expense Tracker" class="h-80 w-72 object-cover rounded-t-xl" />
             <div class="px-4 py-3 w-72">
                 <p class="text-lg font-bold text-black truncate block capitalize">Personal Expense <br /> Tracker</p>
                 <div class="flex items-center">

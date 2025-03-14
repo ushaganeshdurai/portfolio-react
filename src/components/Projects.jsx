@@ -134,6 +134,18 @@ const Projects = () => {
             </div>
         </a>
     </div>
+   <div class="w-72 bg-white shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-xl">
+            <img src='https://media1.giphy.com/media/ZcdDG0yjF6XmoQ2xLD/giphy.gif?cid=6c09b952szi4ie05cx82twsxcqyjussp31o33lda8rei8kaw&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s'
+                    alt="Product" class="h-80 w-72 object-cover rounded-t-xl" />
+            <div class="px-4 py-3 w-72">
+                <p class="text-lg font-bold text-black truncate block capitalize">Placement Tracker - backend</p>
+                <div class="flex items-center">
+                    <p class="text-lg font-semibold text-gray-600 cursor-auto my-3">Hono js , Supabase</p>
+                    
+                </div>
+            </div>
+        </a>
+    </div>
 </section>
 </>
   )

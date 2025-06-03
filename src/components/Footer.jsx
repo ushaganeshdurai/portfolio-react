@@ -10,7 +10,7 @@ const Footer = () => {
 <div className="relative h-full w-full ...">
   <div className="absolute bottom-0 left-0 h-16 w-16 m-4">
   <a href="https://wa.me/+916380731857"><img src={wa} alt="" className='size-8 block' /></a>
-      <a href="https://www.linkedin.com/in/usha-nandhini-7baa57231/"><img src={lin} alt="" className='text-white size-8 block' /></a>
+      <a href="https://www.linkedin.com/in/usha-nandhini-g-7baa57231/"><img src={lin} alt="" className='text-white size-8 block' /></a>
       
       <a href="http://github.com/ushaganeshdurai"><img src={gi} alt="" className='text-white size-8 block' /></a>
       <div className=" h-[80px] m-4 mr-0 block bg-white w-[3px]"></div>

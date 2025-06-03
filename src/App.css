@@ -1,18 +1,4 @@
-html,body{
-  margin: 0;
-    padding: 0;
-    height: 100%;
-  background-color: #172554;
-}
-.firsthalf{
-display: flex;
-flex: 1;
-}
-.secondhalf{
-display: flex;
-flex: 2;
-}
-
+@import "tailwindcss";
 @layer base {
   :root {
     --background: 0 0% 100%;
@@ -57,14 +43,5 @@ flex: 2;
     --border: 217.2 32.6% 17.5%;
     --input: 217.2 32.6% 17.5%;
     --ring: 224.3 76.5% 48%;
-  }
-}
-
-@layer base {
-  * {
-    @apply border-border;
-  }
-  body {
-    @apply bg-background text-foreground;
   }
 }

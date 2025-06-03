@@ -64,7 +64,7 @@ export default function About() {
           >
             <div className="w-64 h-64 rounded-full overflow-hidden border-4 border-blue-500 shadow-lg shadow-blue-500/20">
               <img
-                src="/placeholder.svg?height=256&width=256"
+                src="https://media.licdn.com/dms/image/v2/D5603AQF7njLVQD-NIg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1693327692809?e=1754524800&v=beta&t=jmwCZTJXpEpU31TAUMwZN2rkSOAXS558EmOp15ElxQA"
                 alt="Usha Nandhini"
                 className="w-full h-full object-cover"
               />

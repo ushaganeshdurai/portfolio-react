@@ -64,7 +64,7 @@ export default function About() {
           >
             <div className="w-64 h-64 rounded-full overflow-hidden border-4 border-blue-500 shadow-lg shadow-blue-500/20">
               <img
-                src="https://media.licdn.com/dms/image/v2/D5603AQF7njLVQD-NIg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1693327692809?e=1754524800&v=beta&t=jmwCZTJXpEpU31TAUMwZN2rkSOAXS558EmOp15ElxQA"
+                src="https://avatars.githubusercontent.com/u/108820910?v=4"
                 alt="Usha Nandhini"
                 className="w-full h-full object-cover"
               />
@@ -81,24 +81,24 @@ export default function About() {
           {/* Content */}
           <div className="flex-1 space-y-8">
             <motion.div
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.6, delay: 0.2 }}
-            >
-              <h1 className="text-4xl md:text-5xl font-bold mb-4 text-center md:text-left bg-gradient-to-r from-blue-400 to-purple-500 text-transparent bg-clip-text">
-                About Me
-              </h1>
-              <div className="space-y-4 text-gray-300">
-                <p className="text-lg">
-                  My name is <span className="font-bold text-white">Usha Nandhini</span>, and I am a B.E. Final Year
-                  Student at S.A.E.C pursuing Computer Science Engineering.
-                </p>
-                <p className="text-lg">
-                  I have a keen interest in problem solving and building web applications. As a Full Stack Developer, I
-                  strive to write clean and maintainable code.
-                </p>
-              </div>
-            </motion.div>
+  initial={{ opacity: 0, y: 20 }}
+  animate={{ opacity: 1, y: 0 }}
+  transition={{ duration: 0.6, delay: 0.2 }}
+>
+  <h1 className="text-4xl md:text-5xl font-bold mb-4 text-center md:text-left bg-gradient-to-r from-blue-400 to-purple-500 text-transparent bg-clip-text">
+    About Me
+  </h1>
+  <div className="space-y-4 text-gray-300">
+    <p className="text-lg">
+      My name is <span className="font-bold text-white">Usha Nandhini</span>, and I am currently working as a{' '}
+      <span className="font-bold text-white">Programmer Analyst Trainee</span> at{' '}
+      <span className="font-bold text-white">Cognizant (CTS)</span>.
+    </p>
+    <p className="text-lg">
+      I specialize in the <span className="font-bold text-white">.NET stream</span>, applying my passion for problem-solving to build robust enterprise applications. As a developer, I strive to write clean, maintainable code and am continuously expanding my technical expertise.
+    </p>
+  </div>
+</motion.div>
 
             {/* Skills Grid */}
             <motion.div
